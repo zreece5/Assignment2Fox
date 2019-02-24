@@ -6,3 +6,5 @@ To collaborate for this task, we used Google Hangouts and Quicktime Screen Recor
 
 Youtube link for recording session Part 1:
 Youtube link for recording session Part 2:
+
+Contributors: Kim Hertz, Roberto Santiago, Robert Hennings, Raghuram Banda, Zachary Reece
