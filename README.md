@@ -2,8 +2,9 @@
 EmergSftwProcesses Assignment 2
 Team Fox
 
-To collaborate for this task, we used Google Hangouts and Quicktime Screen Recorder. All members were present and contributed.
+To collaborate for this task, we used Google Hangouts and Quicktime Screen Recorder. Intellij was used for coding purposes. All members were present and contributed.
 
-Both video recordings of the sessions have been uploaded to the repository.
+Youtube session part 1: https://youtu.be/EdGAKFGXjYA
+Youtube session part 2: https://youtu.be/cx2upOuImMQ
 
 Contributors: Kim Hertz, Roberto Santiago, Robert Hennings, Raghuram Banda, Zachary Reece
