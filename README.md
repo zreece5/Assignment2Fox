@@ -7,4 +7,6 @@ To collaborate for this task, we used Google Hangouts and Quicktime Screen Recor
 Youtube session part 1: https://youtu.be/EdGAKFGXjYA
 Youtube session part 2: https://youtu.be/cx2upOuImMQ
 
+NOTE: Refactored code is under the Java-Spock folder's GildedRose.java
+
 Contributors: Kim Hertz, Roberto Santiago, Robert Hennings, Raghuram Banda, Zachary Reece
